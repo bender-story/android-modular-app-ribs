@@ -1,0 +1,6 @@
+rootProject.name='android-modular-app-ribs'
+include ':app'
+include ':core-ribs'
+include ':shared:components-ribs'
+include ':shared:resources-ribs'
+include ':dummy-module-ribs'
