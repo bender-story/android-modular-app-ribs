@@ -1,5 +1,5 @@
 # android-modular-app-ribs
-# Fully inspired from https://github.com/uber/RIBs
+# Inspired from https://github.com/uber/RIBs
 
 ## why did I use this
 I was trying to create a moduler android app which should be kind of super app. To achive this I tried few things like android   navigation a jetpack component but they had few issues in achiving full modular app.
